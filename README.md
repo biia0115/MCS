@@ -31,7 +31,4 @@ Training: The three models were trained on the unified dataset.
 Testing: The trained models were tested on the TREC_05_mic dataset to evaluate their performance.
 
 Files in this Repository
-Preprocessing scripts: Scripts to preprocess the text data and transform it into numerical values.
-Model training scripts: Scripts to train the SVM, Random Forest, and Logistic Regression models.
-Saved models: Trained models saved using the pickle library for reuse.
-Testing scripts: Scripts to test the saved models on the TREC_05_mic dataset.
+We provide seven scripts in the repository: two scripts (one for training and one for testing) per model and an additional script used to obtain and preprocess the training dataset.
